@@ -1,7 +1,7 @@
 # GHMO-Library
 Newest Lime Graphic Library
 
-* (Fist stable version) https://github.com/Duiccni/Logic-Sim
+* (Fist stable version) [https://github.com/Duiccni/Logic-Sim](https://github.com/Duiccni/Electric-Simulation)
 * (Optimized version with some line drawing bugs) https://github.com/Duiccni/LGL-C-Graphics-Library
 * (Lastest version without bugs (i wish (i need a tester) https://github.com/Duiccni/GHMO-Library
 
