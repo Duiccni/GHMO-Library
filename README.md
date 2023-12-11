@@ -10,6 +10,10 @@ Newest Lime Graphic Library
 ```
 graphics::surface* bad_apple
 = graphics::read_binary_into_surface("image-2.bin", graphics::RBIS_24B /* graphics::RBIS_AUTO */);
+
+// graphics::reverse_colors(*bad_apple);
+graphics::black_and_white(*bad_apple);
+graphics::slight_blur(*bad_apple);
 ```
 * ![image](https://github.com/Duiccni/GHMO-Library/assets/143947543/8a4f5827-d164-4476-b04a-d0a591c96e51)
 
