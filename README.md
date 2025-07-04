@@ -7,6 +7,9 @@ Newest Lime Graphic Library
 * (Optimized version with some line drawing bugs) https://github.com/Duiccni/LGL-C-Graphics-Library
 * (Lastest version without bugs (i wish (i need a tester) https://github.com/Duiccni/GHMO-Library
 
+### To myself:
+```C:\"Program Files"\LLVM\bin\clang++.exe Main.cpp -o TEST0.exe -O -std=c++20 "-Wl,-subsystem:windows"```
+
 ## New Features:
 
 * Same things as https://github.com/Duiccni/LGL-C-Graphics-Library (Old one) BUT way more optimized and i found lot of fricking big bugs i fixed them dont worry.
