@@ -1,5 +1,9 @@
 #define _INCLUDE_3DH 0
 
+#pragma comment(lib, "gdi32.lib")
+#pragma comment(lib, "winmm.lib")
+#pragma comment(lib, "user32.lib")
+
 #include "World.h"
 
 LRESULT CALLBACK window_proc(HWND hwnd, UINT u_msg, WPARAM w_param, LPARAM l_param)
