@@ -2,7 +2,10 @@
 
 #include <Windows.h>
 
-#pragma comment(lib, "Winmm.lib")
+
+#pragma comment(lib, "gdi32.lib")
+#pragma comment(lib, "winmm.lib")
+#pragma comment(lib, "user32.lib")
 
 #include "Graphics.h"
 #include "Colors.h"
